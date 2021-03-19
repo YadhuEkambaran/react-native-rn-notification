@@ -1,8 +1,8 @@
 {
   "name": "react-native-rn-notification-v1",
   "title": "React Native Rn Notification",
-  "version": "1.0.2",
-  "description": "TODO",
+  "version": "1.0.3",
+  "description": "For React native location notification",
   "main": "index.js",
   "files": [
     "README.md",
@@ -20,11 +20,11 @@
     "baseUrl": "https://github.com/YadhuEkambaran/react-native-rn-notification.git"
   },
   "keywords": [
-    "react-native"
+    "react-native", "notification", "local-notification", "react-native-notification"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Yadhukrishnan Ekambaran",
+    "email": "yadhuekambaram1992@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
