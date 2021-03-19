@@ -20,7 +20,10 @@
     "baseUrl": "https://github.com/YadhuEkambaran/react-native-rn-notification.git"
   },
   "keywords": [
-    "react-native", "notification", "local-notification", "react-native-notification"
+    "react-native",
+    "notification",
+    "local-notification",
+    "react-native-notification"
   ],
   "author": {
     "name": "Yadhukrishnan Ekambaran",
