@@ -13,7 +13,7 @@ enum NotificationPermissionStatus : String {
     case granted, denied
 }
 
-@objc(RNNotification)
+@objc(RnNotification)
 class RnNotification: RCTEventEmitter, UNUserNotificationCenterDelegate {
   
   override init() {
@@ -59,6 +59,16 @@ class RnNotification: RCTEventEmitter, UNUserNotificationCenterDelegate {
   }
 
   override func supportedEvents() -> [String]! {
-    return ["RNNotification"]
+    return nil
   }
+
+  override var methodQueue: DispatchQueue {
+        get {
+          return DispatchQueue.main
+        }
+      }
+
+      override static func requiresMainQueueSetup() -> Bool {
+        return false
+      }
 }

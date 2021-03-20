@@ -18,7 +18,7 @@ import {
   Text,
   View,
 } from 'react-native';
-import RnNotification from 'react-native-rn-notification';
+import RnNotification from 'react-native-rn-notification-v1';
 
 export default App = () => {
   const handleNotificationClick = () => {

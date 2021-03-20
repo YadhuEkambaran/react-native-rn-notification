@@ -1,7 +1,7 @@
 {
   "name": "react-native-rn-notification-v1",
   "title": "React Native Rn Notification",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "For React native location notification",
   "main": "index.js",
   "files": [
