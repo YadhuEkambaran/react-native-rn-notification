@@ -1,15 +1,13 @@
 {
   "name": "react-native-rn-notification-v1",
   "title": "React Native Rn Notification V1",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "For React native local push notification",
   "main": "index.js",
   "files": [
     "README.md",
     "android",
     "index.js",
-    "ios",
-    "react-native-rn-notification-v1.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
