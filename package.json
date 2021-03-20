@@ -1,15 +1,15 @@
 {
   "name": "react-native-rn-notification-v1",
-  "title": "React Native Rn Notification",
-  "version": "1.0.4",
-  "description": "For React native location notification",
+  "title": "React Native Rn Notification V1",
+  "version": "1.0.5",
+  "description": "For React native local push notification",
   "main": "index.js",
   "files": [
     "README.md",
     "android",
     "index.js",
     "ios",
-    "react-native-rn-notification.podspec"
+    "react-native-rn-notification-v1.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +23,8 @@
     "react-native",
     "notification",
     "local-notification",
-    "react-native-notification"
+    "react-native-notification",
+    "Push Notification"
   ],
   "author": {
     "name": "Yadhukrishnan Ekambaran",
